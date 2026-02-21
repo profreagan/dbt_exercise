@@ -245,7 +245,7 @@ models:
     description: "Insurance Claim Fact"
 ```
 
-## Create a semantic layer model (time permitting)
+## Create a semantic layer model
 - Create a model that can query from the data warehouse we just built and reference upstream models.
 - Create a new file called `claims.sql` inside of the insurance directory.
 
